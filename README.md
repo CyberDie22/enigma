@@ -1,6 +1,6 @@
 # Enigma
 
-A tool for deobfuscation of Java bytecode. Forked from <https://bitbucket.org/cuchaz/enigma>, copyright Jeff Martin.
+A tool for deobfuscation of Java bytecode. Forked from <https://github.com/QuiltMC/enigma>, copyright QuiltMC.
 
 ## License
 
@@ -18,7 +18,7 @@ Enigma includes the following open-source libraries:
 
 ## Usage
 
-Pre-compiled jars can be found on the [Quilt maven](https://maven.quiltmc.org/repository/release/org/quiltmc/).
+[todo]
 
 ### Launching the GUI
 
